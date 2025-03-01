@@ -1,0 +1,12 @@
+body{
+    background: #1a0e23;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.holo-loader{
+    width: 200px;
+    height: 180px;
+    position: relative;
+}
